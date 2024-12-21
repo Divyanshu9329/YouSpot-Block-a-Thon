@@ -140,5 +140,5 @@ Special thanks to our mentors and the hackathon judges for their guidance. A hea
 ## **Contact**
 For queries or collaboration opportunities, feel free to reach out:
 - **Name:** Divyanshu Pandey
-- **LinkedIn:** [Your LinkedIn Profile](#)
-- **Email:** your-email@example.com
+- **LinkedIn:** [www.linkedin.com/in/divyanshu-pandey-b51556286]
+- **Email:** divyanshupandey9329@gmail.com
